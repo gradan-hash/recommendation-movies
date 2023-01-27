@@ -1,2 +1,2 @@
 # recommendation-movies
-movie suggestion/recommendation
+movie suggestion/recommendation machine learning
